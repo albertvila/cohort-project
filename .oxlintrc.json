@@ -148,6 +148,9 @@
     {
       "files": [
         "app/components/comment-thread.tsx",
+        "app/components/lesson/curriculum-sidebar.tsx",
+        "app/components/lesson/lesson-views.tsx",
+        "app/components/lesson/quiz-section.tsx",
         "app/components/dev-ui.tsx",
         "app/components/monaco-markdown-editor.tsx",
         "app/components/notification-feed.tsx",
@@ -156,6 +159,7 @@
         "app/components/ui/chart.tsx",
         "app/components/youtube-player.tsx",
         "app/lib/comments.server.ts",
+        "app/lib/lesson-page.server.ts",
         "app/lib/notification-feed.knock.ts",
         "app/lib/notifications.fake.server.ts",
         "app/lib/notifications.knock.server.ts",
